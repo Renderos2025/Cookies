@@ -38,7 +38,8 @@
               "RelativeToolTip": "Cookies4367416\\ProductConfirmCookies.aspx.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:15:17.901Z"
+              "WhenOpened": "2025-02-25T21:15:17.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": "Cookies4367416\\Cookies.aspx.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwBwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:13:19.638Z"
+              "WhenOpened": "2025-02-25T21:13:19.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "Cookies4367416\\Cookies.aspx",
               "ToolTip": "C:\\Users\\Renderos\\Desktop\\Practica3\\Cookies4367416\\Cookies4367416\\Cookies.aspx",
               "RelativeToolTip": "Cookies4367416\\Cookies.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-25T21:12:25.257Z"
+              "WhenOpened": "2025-02-25T21:12:25.257Z",
+              "EditorCaption": ""
             }
           ]
         }
